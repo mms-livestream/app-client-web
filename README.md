@@ -1,5 +1,7 @@
 # app-client-web
 
-webpack-dev-server --progress --colors
+* sudo npm install webpack-dev-server -g
 
-http://localhost:8080/
+* Inside directory containing "webpack.config.js" : webpack-dev-server --progress --colors
+
+* Browse to : http://localhost:8080/
